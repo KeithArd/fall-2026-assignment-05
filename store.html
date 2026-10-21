@@ -1,1 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store | Super Sports</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <!-- Header / Navbar -->
+    <header class="site-header">
+      <a href="./index.html" class="logo">Super Sports</a>
+      <nav class="nav">
+        <a href="./index.html" class="nav-link">Home</a>
+        <a href="./about.html" class="nav-link">About</a>
+        <a href="./store.html" class="nav-link active">Store</a>
+      </nav>
+    </header>
 
+    <main>
+      <section class="section">
+        <h1>Shop All Products</h1>
+
+        <!-- Products get inserted here by main.js -->
+        <div id="product-grid" class="product-grid"></div>
+
+        <!-- Pagination controls -->
+        <div class="pagination">
+          <button id="prev-btn" class="btn">Previous</button>
+          <span id="page-indicator">Page 1 of 3</span>
+          <button id="next-btn" class="btn">Next</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <p>&copy; 2026 Super Sports. All rights reserved.</p>
+      <p>Store Hours: Mon–Sat 9am–8pm · Sun 11am–6pm</p>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
