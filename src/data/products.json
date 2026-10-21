@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Tennis Racket",
+    "price": 59.99,
+    "category": "Rackets & Paddles",
+    "description": "Lightweight racket with a large sweet spot, great for beginners.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Basketball",
+    "price": 29.99,
+    "category": "Balls",
+    "description": "Official size ball with a grippy surface for indoor and outdoor courts.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Baseball Bat",
+    "price": 49.99,
+    "category": "Gear",
+    "description": "Balanced aluminum bat with a comfortable cushioned grip.",
+    "imageUrl": "./images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Baseball",
+    "price": 6.99,
+    "category": "Balls",
+    "description": "Regulation leather baseball with raised red seams.",
+    "imageUrl": "./images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Volleyball",
+    "price": 24.99,
+    "category": "Balls",
+    "description": "Soft-touch volleyball for beach or indoor play.",
+    "imageUrl": "./images/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tennis Balls",
+    "price": 5.99,
+    "category": "Balls",
+    "description": "Pressurized tennis balls with a consistent, lively bounce.",
+    "imageUrl": "./images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Soccer Ball",
+    "price": 22.99,
+    "category": "Balls",
+    "description": "Size 5 match ball with durable stitched panels.",
+    "imageUrl": "./images/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Baseball Glove",
+    "price": 39.99,
+    "category": "Gear",
+    "description": "Leather fielding glove with a deep pocket for secure catches.",
+    "imageUrl": "./images/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Football",
+    "price": 27.99,
+    "category": "Balls",
+    "description": "Official size football with laces for an easy, tight spiral.",
+    "imageUrl": "./images/product9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Shuttlecocks",
+    "price": 9.99,
+    "category": "Gear",
+    "description": "Durable nylon shuttlecocks that fly true for backyard badminton.",
+    "imageUrl": "./images/product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Badminton Racket",
+    "price": 19.99,
+    "category": "Rackets & Paddles",
+    "description": "Light steel-frame racket built for fast swings at the net.",
+    "imageUrl": "./images/product11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ping Pong Paddle",
+    "price": 14.99,
+    "category": "Rackets & Paddles",
+    "description": "Rubber-faced paddle with good spin and control.",
+    "imageUrl": "./images/product12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Golf Balls (12-Pack)",
+    "price": 18.99,
+    "category": "Balls",
+    "description": "Two-piece golf balls designed for distance and durability.",
+    "imageUrl": "./images/product13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Hockey Stick",
+    "price": 44.99,
+    "category": "Gear",
+    "description": "Sturdy composite stick for street or ice hockey.",
+    "imageUrl": "./images/product14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Frisbee",
+    "price": 9.99,
+    "category": "Gear",
+    "description": "Classic flying disc for the park, beach, or backyard.",
+    "imageUrl": "./images/product15.jpg"
+  }
+]
