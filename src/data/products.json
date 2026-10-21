@@ -5,7 +5,7 @@
     "price": 59.99,
     "category": "Rackets & Paddles",
     "description": "Lightweight racket with a large sweet spot, great for beginners.",
-    "imageUrl": "./images/product1.jpg"
+    "imageUrl": "./images/tennisRacket.jpeg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": 29.99,
     "category": "Balls",
     "description": "Official size ball with a grippy surface for indoor and outdoor courts.",
-    "imageUrl": "./images/product2.jpg"
+    "imageUrl": "./images/basketball.jpeg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 49.99,
     "category": "Gear",
     "description": "Balanced aluminum bat with a comfortable cushioned grip.",
-    "imageUrl": "./images/product3.jpg"
+    "imageUrl": "./images/baseballBat.jpeg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 6.99,
     "category": "Balls",
     "description": "Regulation leather baseball with raised red seams.",
-    "imageUrl": "./images/product4.jpg"
+    "imageUrl": "./images/baseball.jpeg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 24.99,
     "category": "Balls",
     "description": "Soft-touch volleyball for beach or indoor play.",
-    "imageUrl": "./images/product5.jpg"
+    "imageUrl": "./images/volleyball.jpeg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 5.99,
     "category": "Balls",
     "description": "Pressurized tennis balls with a consistent, lively bounce.",
-    "imageUrl": "./images/product6.jpg"
+    "imageUrl": "./images/tennisBalls.jpeg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 22.99,
     "category": "Balls",
     "description": "Size 5 match ball with durable stitched panels.",
-    "imageUrl": "./images/product7.jpg"
+    "imageUrl": "./images/soccerBall.jpeg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": 39.99,
     "category": "Gear",
     "description": "Leather fielding glove with a deep pocket for secure catches.",
-    "imageUrl": "./images/product8.jpg"
+    "imageUrl": "./images/baseballGlove.jpeg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": 27.99,
     "category": "Balls",
     "description": "Official size football with laces for an easy, tight spiral.",
-    "imageUrl": "./images/product9.jpg"
+    "imageUrl": "./images/football.jpeg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": 9.99,
     "category": "Gear",
     "description": "Durable nylon shuttlecocks that fly true for backyard badminton.",
-    "imageUrl": "./images/product10.jpg"
+    "imageUrl": "./images/shuttleCocks.jpeg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "price": 19.99,
     "category": "Rackets & Paddles",
     "description": "Light steel-frame racket built for fast swings at the net.",
-    "imageUrl": "./images/product11.jpg"
+    "imageUrl": "./images/badmintonRacket.jpeg"
   },
   {
     "id": 12,
@@ -93,15 +93,15 @@
     "price": 14.99,
     "category": "Rackets & Paddles",
     "description": "Rubber-faced paddle with good spin and control.",
-    "imageUrl": "./images/product12.jpg"
+    "imageUrl": "./images/pingpongPaddle.jpeg"
   },
   {
     "id": 13,
-    "name": "Golf Balls (12-Pack)",
+    "name": "Golf Balls",
     "price": 18.99,
     "category": "Balls",
-    "description": "Two-piece golf balls designed for distance and durability.",
-    "imageUrl": "./images/product13.jpg"
+    "description": "Golf balls designed for distance and durability.",
+    "imageUrl": "./images/golfBalls.jpeg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "price": 44.99,
     "category": "Gear",
     "description": "Sturdy composite stick for street or ice hockey.",
-    "imageUrl": "./images/product14.jpg"
+    "imageUrl": "./images/hockeyStick.jpeg"
   },
   {
     "id": 15,
@@ -117,6 +117,6 @@
     "price": 9.99,
     "category": "Gear",
     "description": "Classic flying disc for the park, beach, or backyard.",
-    "imageUrl": "./images/product15.jpg"
+    "imageUrl": "./images/frisbee.jpeg"
   }
 ]
